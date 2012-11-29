@@ -1,0 +1,9 @@
+@(^_^)@
+
+Active Monkeys was created by...
+
+Michelle Nation - inspiration, ideas, presentation monkey
+Ha Phan - visual design, interaction design, monkey
+Jeremy Spitzberg - code monkey
+
+...for the Active Network Hackathon, December 13, 2011.
